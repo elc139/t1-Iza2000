@@ -6,7 +6,7 @@ Nome: Izabella M. Paulette
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               |Lenovo ThinkSystem |ASUS S46CB-WX228H|
-| Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://content.etilize.com/thumbnail/1046406994.jpg" width="48">|<img src="https://www.premiumstore.com.br/wp-content/uploads/2016/10/BEB0C150423173907_zo.jpg" width="48">|
 | Classificação de Flynn                                    | MIMD|SIMD|
 | Memória: compartilhada, distribuída ou ambas?             | ambas|Compartilhada|
 | Número total de núcleos de processamento                  |66.080| 2 fios e 4 fios|
